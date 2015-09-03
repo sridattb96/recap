@@ -1,0 +1,263 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "CourseTableViewCell"
+provides-nominal:
+- "C6Recap219CourseTableViewCell"
+provides-member:
+- ["C6Recap219CourseTableViewCell", ""]
+provides-dynamic-lookup:
+- "professorName"
+- "courseIcon"
+- "setSelected"
+- "awakeFromNib"
+- "courseName"
+depends-top-level:
+- "Bool"
+- "UIImageView"
+- "CourseTableViewCell"
+- "UILabel"
+- "UITableViewCell"
+depends-member:
+- ["PSs9AnyObject", "awakeFromNib"]
+- ["PSs9AnyObject", "courseIcon"]
+- ["PSs9AnyObject", "courseName"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "professorName"]
+- ["PSs9AnyObject", "setSelected"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "awakeFromNib"]
+- ["PSs11CVarArgType", "courseIcon"]
+- ["PSs11CVarArgType", "courseName"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "professorName"]
+- ["PSs11CVarArgType", "setSelected"]
+- ["PSs11CVarArgType", ""]
+- ["C6Recap219CourseTableViewCell", "Bool"]
+- ["C6Recap219CourseTableViewCell", "UIImageView"]
+- ["C6Recap219CourseTableViewCell", "UILabel"]
+- ["C6Recap219CourseTableViewCell", "awakeFromNib"]
+- ["C6Recap219CourseTableViewCell", "courseIcon"]
+- ["C6Recap219CourseTableViewCell", "courseName"]
+- ["C6Recap219CourseTableViewCell", "deinit"]
+- ["C6Recap219CourseTableViewCell", "init"]
+- ["C6Recap219CourseTableViewCell", "professorName"]
+- ["C6Recap219CourseTableViewCell", "setSelected"]
+- ["PSs23CustomStringConvertible", "awakeFromNib"]
+- ["PSs23CustomStringConvertible", "courseIcon"]
+- ["PSs23CustomStringConvertible", "courseName"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "professorName"]
+- ["PSs23CustomStringConvertible", "setSelected"]
+- ["PSs23CustomStringConvertible", ""]
+- ["PSs9Equatable", "awakeFromNib"]
+- ["PSs9Equatable", "courseIcon"]
+- ["PSs9Equatable", "courseName"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "professorName"]
+- ["PSs9Equatable", "setSelected"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "awakeFromNib"]
+- ["PSs8Hashable", "courseIcon"]
+- ["PSs8Hashable", "courseName"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "professorName"]
+- ["PSs8Hashable", "setSelected"]
+- ["PSs8Hashable", ""]
+- ["PSo8NSCoding", "awakeFromNib"]
+- ["PSo8NSCoding", "courseIcon"]
+- ["PSo8NSCoding", "courseName"]
+- ["PSo8NSCoding", "init"]
+- ["PSo8NSCoding", "professorName"]
+- ["PSo8NSCoding", "setSelected"]
+- ["PSo8NSCoding", ""]
+- ["CSo8NSObject", "Bool"]
+- ["CSo8NSObject", "UIImageView"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "awakeFromNib"]
+- ["CSo8NSObject", "courseIcon"]
+- ["CSo8NSObject", "courseName"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "professorName"]
+- ["CSo8NSObject", "setSelected"]
+- ["PSo16NSObjectProtocol", "awakeFromNib"]
+- ["PSo16NSObjectProtocol", "courseIcon"]
+- ["PSo16NSObjectProtocol", "courseName"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "professorName"]
+- ["PSo16NSObjectProtocol", "setSelected"]
+- ["PSo16NSObjectProtocol", ""]
+- ["PSo29UIAccessibilityIdentification", "awakeFromNib"]
+- ["PSo29UIAccessibilityIdentification", "courseIcon"]
+- ["PSo29UIAccessibilityIdentification", "courseName"]
+- ["PSo29UIAccessibilityIdentification", "init"]
+- ["PSo29UIAccessibilityIdentification", "professorName"]
+- ["PSo29UIAccessibilityIdentification", "setSelected"]
+- ["PSo29UIAccessibilityIdentification", ""]
+- ["PSo12UIAppearance", "awakeFromNib"]
+- ["PSo12UIAppearance", "courseIcon"]
+- ["PSo12UIAppearance", "courseName"]
+- ["PSo12UIAppearance", "init"]
+- ["PSo12UIAppearance", "professorName"]
+- ["PSo12UIAppearance", "setSelected"]
+- ["PSo12UIAppearance", ""]
+- ["PSo21UIAppearanceContainer", "awakeFromNib"]
+- ["PSo21UIAppearanceContainer", "courseIcon"]
+- ["PSo21UIAppearanceContainer", "courseName"]
+- ["PSo21UIAppearanceContainer", "init"]
+- ["PSo21UIAppearanceContainer", "professorName"]
+- ["PSo21UIAppearanceContainer", "setSelected"]
+- ["PSo21UIAppearanceContainer", ""]
+- ["PSo17UICoordinateSpace", "awakeFromNib"]
+- ["PSo17UICoordinateSpace", "courseIcon"]
+- ["PSo17UICoordinateSpace", "courseName"]
+- ["PSo17UICoordinateSpace", "init"]
+- ["PSo17UICoordinateSpace", "professorName"]
+- ["PSo17UICoordinateSpace", "setSelected"]
+- ["PSo17UICoordinateSpace", ""]
+- ["PSo13UIDynamicItem", "awakeFromNib"]
+- ["PSo13UIDynamicItem", "courseIcon"]
+- ["PSo13UIDynamicItem", "courseName"]
+- ["PSo13UIDynamicItem", "init"]
+- ["PSo13UIDynamicItem", "professorName"]
+- ["PSo13UIDynamicItem", "setSelected"]
+- ["PSo13UIDynamicItem", ""]
+- ["PSo27UIGestureRecognizerDelegate", "awakeFromNib"]
+- ["PSo27UIGestureRecognizerDelegate", "courseIcon"]
+- ["PSo27UIGestureRecognizerDelegate", "courseName"]
+- ["PSo27UIGestureRecognizerDelegate", "init"]
+- ["PSo27UIGestureRecognizerDelegate", "professorName"]
+- ["PSo27UIGestureRecognizerDelegate", "setSelected"]
+- ["PSo27UIGestureRecognizerDelegate", ""]
+- ["CSo11UIResponder", "Bool"]
+- ["CSo11UIResponder", "UIImageView"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "awakeFromNib"]
+- ["CSo11UIResponder", "courseIcon"]
+- ["CSo11UIResponder", "courseName"]
+- ["CSo11UIResponder", "init"]
+- ["CSo11UIResponder", "professorName"]
+- ["CSo11UIResponder", "setSelected"]
+- ["CSo15UITableViewCell", "Bool"]
+- ["CSo15UITableViewCell", "UIImageView"]
+- ["CSo15UITableViewCell", "UILabel"]
+- ["CSo15UITableViewCell", "awakeFromNib"]
+- ["CSo15UITableViewCell", "courseIcon"]
+- ["CSo15UITableViewCell", "courseName"]
+- ["CSo15UITableViewCell", "init"]
+- ["CSo15UITableViewCell", "professorName"]
+- ["CSo15UITableViewCell", "setSelected"]
+- ["CSo15UITableViewCell", ""]
+- ["PSo18UITraitEnvironment", "awakeFromNib"]
+- ["PSo18UITraitEnvironment", "courseIcon"]
+- ["PSo18UITraitEnvironment", "courseName"]
+- ["PSo18UITraitEnvironment", "init"]
+- ["PSo18UITraitEnvironment", "professorName"]
+- ["PSo18UITraitEnvironment", "setSelected"]
+- ["PSo18UITraitEnvironment", ""]
+- ["CSo6UIView", "Bool"]
+- ["CSo6UIView", "UIImageView"]
+- ["CSo6UIView", "UILabel"]
+- ["CSo6UIView", "awakeFromNib"]
+- ["CSo6UIView", "courseIcon"]
+- ["CSo6UIView", "courseName"]
+- ["CSo6UIView", "init"]
+- ["CSo6UIView", "professorName"]
+- ["CSo6UIView", "setSelected"]
+- ["PSs12_Reflectable", "awakeFromNib"]
+- ["PSs12_Reflectable", "courseIcon"]
+- ["PSs12_Reflectable", "courseName"]
+- ["PSs12_Reflectable", "init"]
+- ["PSs12_Reflectable", "professorName"]
+- ["PSs12_Reflectable", "setSelected"]
+- ["PSs12_Reflectable", ""]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "C6Recap219CourseTableViewCell"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "PSo8NSCoding"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "PSo29UIAccessibilityIdentification"
+- "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo17UICoordinateSpace"
+- "PSo13UIDynamicItem"
+- "PSo27UIGestureRecognizerDelegate"
+- "CSo11UIResponder"
+- "CSo15UITableViewCell"
+- "PSo18UITraitEnvironment"
+- "CSo6UIView"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/DarwinShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/module.map"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFURL.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFTask.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BoltsVersion.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/Bolts.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Modules/module.modulemap"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKButton.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKUtility.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKSettings.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKProfile.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKConstants.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKMacros.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKCopying.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Modules/module.modulemap"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Modules/module.modulemap"
+interface-hash: "3eb9dd0933cb1cad7a40e395593632bf"

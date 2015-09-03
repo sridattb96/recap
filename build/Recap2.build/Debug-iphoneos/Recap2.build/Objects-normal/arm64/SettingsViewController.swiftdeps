@@ -1,0 +1,489 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "SettingsViewController"
+provides-nominal:
+- "C6Recap222SettingsViewController"
+provides-member:
+- ["C6Recap222SettingsViewController", ""]
+provides-dynamic-lookup:
+- "color"
+- "doneButton"
+- "viewDidLoad"
+depends-top-level:
+- "AnyObject"
+- "Colors"
+- "SettingsViewController"
+- !private "Dictionary"
+- "UITableViewController"
+- !private "BooleanLiteralType"
+- !private "UINavigationBar"
+- !private "NSForegroundColorAttributeName"
+- !private "UIColor"
+depends-member:
+- ["PSs9AnyObject", "Colors"]
+- !private ["PSs9AnyObject", "NSForegroundColorAttributeName"]
+- !private ["PSs9AnyObject", "UIColor"]
+- !private ["PSs9AnyObject", "UINavigationBar"]
+- !private ["PSs9AnyObject", "appearance"]
+- !private ["PSs9AnyObject", "barTintColor"]
+- ["PSs9AnyObject", "color"]
+- !private ["PSs9AnyObject", "dismissViewControllerAnimated"]
+- ["PSs9AnyObject", "doneButton"]
+- !private ["PSs9AnyObject", "getMainColor"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "navigationBar"]
+- !private ["PSs9AnyObject", "navigationController"]
+- !private ["PSs9AnyObject", "tintColor"]
+- !private ["PSs9AnyObject", "titleTextAttributes"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- !private ["PSs9AnyObject", "whiteColor"]
+- ["PSs9AnyObject", ""]
+- ["PSs11CVarArgType", "Colors"]
+- !private ["PSs11CVarArgType", "NSForegroundColorAttributeName"]
+- !private ["PSs11CVarArgType", "UIColor"]
+- !private ["PSs11CVarArgType", "UINavigationBar"]
+- !private ["PSs11CVarArgType", "appearance"]
+- !private ["PSs11CVarArgType", "barTintColor"]
+- ["PSs11CVarArgType", "color"]
+- !private ["PSs11CVarArgType", "dismissViewControllerAnimated"]
+- ["PSs11CVarArgType", "doneButton"]
+- !private ["PSs11CVarArgType", "getMainColor"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "navigationBar"]
+- !private ["PSs11CVarArgType", "navigationController"]
+- !private ["PSs11CVarArgType", "tintColor"]
+- !private ["PSs11CVarArgType", "titleTextAttributes"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- !private ["PSs11CVarArgType", "whiteColor"]
+- ["PSs11CVarArgType", ""]
+- !private ["PSs14CollectionType", "Key"]
+- !private ["PSs14CollectionType", "Value"]
+- !private ["C6Recap26Colors", "getMainColor"]
+- ["C6Recap26Colors", "init"]
+- !private ["PSs28CustomDebugStringConvertible", "Key"]
+- !private ["PSs28CustomDebugStringConvertible", "Value"]
+- ["PSs23CustomStringConvertible", "Colors"]
+- !private ["PSs23CustomStringConvertible", "Key"]
+- !private ["PSs23CustomStringConvertible", "NSForegroundColorAttributeName"]
+- !private ["PSs23CustomStringConvertible", "UIColor"]
+- !private ["PSs23CustomStringConvertible", "UINavigationBar"]
+- !private ["PSs23CustomStringConvertible", "Value"]
+- !private ["PSs23CustomStringConvertible", "appearance"]
+- !private ["PSs23CustomStringConvertible", "barTintColor"]
+- ["PSs23CustomStringConvertible", "color"]
+- !private ["PSs23CustomStringConvertible", "dismissViewControllerAnimated"]
+- ["PSs23CustomStringConvertible", "doneButton"]
+- !private ["PSs23CustomStringConvertible", "getMainColor"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "navigationBar"]
+- !private ["PSs23CustomStringConvertible", "navigationController"]
+- !private ["PSs23CustomStringConvertible", "tintColor"]
+- !private ["PSs23CustomStringConvertible", "titleTextAttributes"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- !private ["PSs23CustomStringConvertible", "whiteColor"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["VSs10Dictionary", "Key"]
+- !private ["VSs10Dictionary", "Value"]
+- !private ["PSs28DictionaryLiteralConvertible", "Key"]
+- !private ["PSs28DictionaryLiteralConvertible", "Value"]
+- ["PSs9Equatable", "Colors"]
+- !private ["PSs9Equatable", "NSForegroundColorAttributeName"]
+- !private ["PSs9Equatable", "UIColor"]
+- !private ["PSs9Equatable", "UINavigationBar"]
+- !private ["PSs9Equatable", "appearance"]
+- !private ["PSs9Equatable", "barTintColor"]
+- ["PSs9Equatable", "color"]
+- !private ["PSs9Equatable", "dismissViewControllerAnimated"]
+- ["PSs9Equatable", "doneButton"]
+- !private ["PSs9Equatable", "getMainColor"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "navigationBar"]
+- !private ["PSs9Equatable", "navigationController"]
+- !private ["PSs9Equatable", "tintColor"]
+- !private ["PSs9Equatable", "titleTextAttributes"]
+- ["PSs9Equatable", "viewDidLoad"]
+- !private ["PSs9Equatable", "whiteColor"]
+- ["PSs9Equatable", ""]
+- ["PSs8Hashable", "Colors"]
+- !private ["PSs8Hashable", "NSForegroundColorAttributeName"]
+- !private ["PSs8Hashable", "UIColor"]
+- !private ["PSs8Hashable", "UINavigationBar"]
+- !private ["PSs8Hashable", "appearance"]
+- !private ["PSs8Hashable", "barTintColor"]
+- ["PSs8Hashable", "color"]
+- !private ["PSs8Hashable", "dismissViewControllerAnimated"]
+- ["PSs8Hashable", "doneButton"]
+- !private ["PSs8Hashable", "getMainColor"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "navigationBar"]
+- !private ["PSs8Hashable", "navigationController"]
+- !private ["PSs8Hashable", "tintColor"]
+- !private ["PSs8Hashable", "titleTextAttributes"]
+- ["PSs8Hashable", "viewDidLoad"]
+- !private ["PSs8Hashable", "whiteColor"]
+- ["PSs8Hashable", ""]
+- !private ["PSs9Indexable", "Key"]
+- !private ["PSs9Indexable", "Value"]
+- ["PSo8NSCoding", "Colors"]
+- !private ["PSo8NSCoding", "NSForegroundColorAttributeName"]
+- !private ["PSo8NSCoding", "UIColor"]
+- !private ["PSo8NSCoding", "UINavigationBar"]
+- !private ["PSo8NSCoding", "appearance"]
+- !private ["PSo8NSCoding", "barTintColor"]
+- ["PSo8NSCoding", "color"]
+- !private ["PSo8NSCoding", "dismissViewControllerAnimated"]
+- ["PSo8NSCoding", "doneButton"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "navigationBar"]
+- !private ["PSo8NSCoding", "navigationController"]
+- !private ["PSo8NSCoding", "tintColor"]
+- !private ["PSo8NSCoding", "titleTextAttributes"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- !private ["PSo8NSCoding", "whiteColor"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "whiteColor"]
+- ["PSo26NSExtensionRequestHandling", "Colors"]
+- !private ["PSo26NSExtensionRequestHandling", "NSForegroundColorAttributeName"]
+- !private ["PSo26NSExtensionRequestHandling", "UIColor"]
+- !private ["PSo26NSExtensionRequestHandling", "UINavigationBar"]
+- ["PSo26NSExtensionRequestHandling", "color"]
+- !private ["PSo26NSExtensionRequestHandling", "dismissViewControllerAnimated"]
+- ["PSo26NSExtensionRequestHandling", "doneButton"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "navigationBar"]
+- !private ["PSo26NSExtensionRequestHandling", "navigationController"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Colors"]
+- !private ["CSo8NSObject", "NSForegroundColorAttributeName"]
+- !private ["CSo8NSObject", "UIColor"]
+- !private ["CSo8NSObject", "UINavigationBar"]
+- !private ["CSo8NSObject", "appearance"]
+- !private ["CSo8NSObject", "barTintColor"]
+- ["CSo8NSObject", "color"]
+- !private ["CSo8NSObject", "dismissViewControllerAnimated"]
+- ["CSo8NSObject", "doneButton"]
+- !private ["CSo8NSObject", "getMainColor"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "navigationBar"]
+- !private ["CSo8NSObject", "navigationController"]
+- !private ["CSo8NSObject", "tintColor"]
+- !private ["CSo8NSObject", "titleTextAttributes"]
+- ["CSo8NSObject", "viewDidLoad"]
+- !private ["CSo8NSObject", "whiteColor"]
+- ["PSo16NSObjectProtocol", "Colors"]
+- !private ["PSo16NSObjectProtocol", "NSForegroundColorAttributeName"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- !private ["PSo16NSObjectProtocol", "UINavigationBar"]
+- !private ["PSo16NSObjectProtocol", "appearance"]
+- !private ["PSo16NSObjectProtocol", "barTintColor"]
+- ["PSo16NSObjectProtocol", "color"]
+- !private ["PSo16NSObjectProtocol", "dismissViewControllerAnimated"]
+- ["PSo16NSObjectProtocol", "doneButton"]
+- !private ["PSo16NSObjectProtocol", "getMainColor"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "navigationBar"]
+- !private ["PSo16NSObjectProtocol", "navigationController"]
+- !private ["PSo16NSObjectProtocol", "tintColor"]
+- !private ["PSo16NSObjectProtocol", "titleTextAttributes"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- !private ["PSo16NSObjectProtocol", "whiteColor"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "whiteColor"]
+- !private ["Sq", "deinit"]
+- !private ["PSs12SequenceType", "Key"]
+- !private ["PSs12SequenceType", "Value"]
+- ["C6Recap222SettingsViewController", "AnyObject"]
+- ["C6Recap222SettingsViewController", "Colors"]
+- !private ["C6Recap222SettingsViewController", "NSForegroundColorAttributeName"]
+- !private ["C6Recap222SettingsViewController", "UIColor"]
+- !private ["C6Recap222SettingsViewController", "UINavigationBar"]
+- ["C6Recap222SettingsViewController", "color"]
+- ["C6Recap222SettingsViewController", "deinit"]
+- !private ["C6Recap222SettingsViewController", "dismissViewControllerAnimated"]
+- ["C6Recap222SettingsViewController", "doneButton"]
+- ["C6Recap222SettingsViewController", "init"]
+- !private ["C6Recap222SettingsViewController", "navigationController"]
+- ["C6Recap222SettingsViewController", "viewDidLoad"]
+- !private ["PSo29UIAccessibilityIdentification", "appearance"]
+- !private ["PSo29UIAccessibilityIdentification", "barTintColor"]
+- !private ["PSo29UIAccessibilityIdentification", "tintColor"]
+- !private ["PSo29UIAccessibilityIdentification", "titleTextAttributes"]
+- !private ["PSo12UIAppearance", "appearance"]
+- !private ["PSo12UIAppearance", "barTintColor"]
+- !private ["PSo12UIAppearance", "tintColor"]
+- !private ["PSo12UIAppearance", "titleTextAttributes"]
+- ["PSo21UIAppearanceContainer", "Colors"]
+- !private ["PSo21UIAppearanceContainer", "NSForegroundColorAttributeName"]
+- !private ["PSo21UIAppearanceContainer", "UIColor"]
+- !private ["PSo21UIAppearanceContainer", "UINavigationBar"]
+- !private ["PSo21UIAppearanceContainer", "appearance"]
+- !private ["PSo21UIAppearanceContainer", "barTintColor"]
+- ["PSo21UIAppearanceContainer", "color"]
+- !private ["PSo21UIAppearanceContainer", "dismissViewControllerAnimated"]
+- ["PSo21UIAppearanceContainer", "doneButton"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "navigationBar"]
+- !private ["PSo21UIAppearanceContainer", "navigationController"]
+- !private ["PSo21UIAppearanceContainer", "tintColor"]
+- !private ["PSo21UIAppearanceContainer", "titleTextAttributes"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo16UIBarPositioning", "appearance"]
+- !private ["PSo16UIBarPositioning", "barTintColor"]
+- !private ["PSo16UIBarPositioning", "tintColor"]
+- !private ["PSo16UIBarPositioning", "titleTextAttributes"]
+- !private ["CSo7UIColor", "whiteColor"]
+- ["PSo18UIContentContainer", "Colors"]
+- !private ["PSo18UIContentContainer", "NSForegroundColorAttributeName"]
+- !private ["PSo18UIContentContainer", "UIColor"]
+- !private ["PSo18UIContentContainer", "UINavigationBar"]
+- ["PSo18UIContentContainer", "color"]
+- !private ["PSo18UIContentContainer", "dismissViewControllerAnimated"]
+- ["PSo18UIContentContainer", "doneButton"]
+- ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "navigationBar"]
+- !private ["PSo18UIContentContainer", "navigationController"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "appearance"]
+- !private ["PSo17UICoordinateSpace", "barTintColor"]
+- !private ["PSo17UICoordinateSpace", "tintColor"]
+- !private ["PSo17UICoordinateSpace", "titleTextAttributes"]
+- !private ["PSo13UIDynamicItem", "appearance"]
+- !private ["PSo13UIDynamicItem", "barTintColor"]
+- !private ["PSo13UIDynamicItem", "tintColor"]
+- !private ["PSo13UIDynamicItem", "titleTextAttributes"]
+- !private ["CSo15UINavigationBar", "appearance"]
+- !private ["CSo15UINavigationBar", "barTintColor"]
+- !private ["CSo15UINavigationBar", "tintColor"]
+- !private ["CSo15UINavigationBar", "titleTextAttributes"]
+- !private ["CSo22UINavigationController", "navigationBar"]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "Colors"]
+- !private ["CSo11UIResponder", "NSForegroundColorAttributeName"]
+- !private ["CSo11UIResponder", "UIColor"]
+- !private ["CSo11UIResponder", "UINavigationBar"]
+- !private ["CSo11UIResponder", "appearance"]
+- !private ["CSo11UIResponder", "barTintColor"]
+- ["CSo11UIResponder", "color"]
+- !private ["CSo11UIResponder", "dismissViewControllerAnimated"]
+- ["CSo11UIResponder", "doneButton"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "navigationBar"]
+- !private ["CSo11UIResponder", "navigationController"]
+- !private ["CSo11UIResponder", "tintColor"]
+- !private ["CSo11UIResponder", "titleTextAttributes"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["PSo20UIScrollViewDelegate", "Colors"]
+- !private ["PSo20UIScrollViewDelegate", "NSForegroundColorAttributeName"]
+- !private ["PSo20UIScrollViewDelegate", "UIColor"]
+- !private ["PSo20UIScrollViewDelegate", "UINavigationBar"]
+- ["PSo20UIScrollViewDelegate", "color"]
+- !private ["PSo20UIScrollViewDelegate", "dismissViewControllerAnimated"]
+- ["PSo20UIScrollViewDelegate", "doneButton"]
+- ["PSo20UIScrollViewDelegate", "init"]
+- !private ["PSo20UIScrollViewDelegate", "navigationController"]
+- ["PSo20UIScrollViewDelegate", "viewDidLoad"]
+- ["PSo20UIScrollViewDelegate", ""]
+- ["PSo16UIStateRestoring", "Colors"]
+- !private ["PSo16UIStateRestoring", "NSForegroundColorAttributeName"]
+- !private ["PSo16UIStateRestoring", "UIColor"]
+- !private ["PSo16UIStateRestoring", "UINavigationBar"]
+- ["PSo16UIStateRestoring", "color"]
+- !private ["PSo16UIStateRestoring", "dismissViewControllerAnimated"]
+- ["PSo16UIStateRestoring", "doneButton"]
+- ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "navigationBar"]
+- !private ["PSo16UIStateRestoring", "navigationController"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", ""]
+- ["CSo21UITableViewController", "AnyObject"]
+- ["CSo21UITableViewController", "Colors"]
+- !private ["CSo21UITableViewController", "NSForegroundColorAttributeName"]
+- !private ["CSo21UITableViewController", "UIColor"]
+- !private ["CSo21UITableViewController", "UINavigationBar"]
+- ["CSo21UITableViewController", "color"]
+- !private ["CSo21UITableViewController", "dismissViewControllerAnimated"]
+- ["CSo21UITableViewController", "doneButton"]
+- ["CSo21UITableViewController", "init"]
+- !private ["CSo21UITableViewController", "navigationController"]
+- ["CSo21UITableViewController", "viewDidLoad"]
+- ["CSo21UITableViewController", ""]
+- ["PSo21UITableViewDataSource", "Colors"]
+- !private ["PSo21UITableViewDataSource", "NSForegroundColorAttributeName"]
+- !private ["PSo21UITableViewDataSource", "UIColor"]
+- !private ["PSo21UITableViewDataSource", "UINavigationBar"]
+- ["PSo21UITableViewDataSource", "color"]
+- !private ["PSo21UITableViewDataSource", "dismissViewControllerAnimated"]
+- ["PSo21UITableViewDataSource", "doneButton"]
+- ["PSo21UITableViewDataSource", "init"]
+- !private ["PSo21UITableViewDataSource", "navigationController"]
+- ["PSo21UITableViewDataSource", "viewDidLoad"]
+- ["PSo21UITableViewDataSource", ""]
+- ["PSo19UITableViewDelegate", "Colors"]
+- !private ["PSo19UITableViewDelegate", "NSForegroundColorAttributeName"]
+- !private ["PSo19UITableViewDelegate", "UIColor"]
+- !private ["PSo19UITableViewDelegate", "UINavigationBar"]
+- ["PSo19UITableViewDelegate", "color"]
+- !private ["PSo19UITableViewDelegate", "dismissViewControllerAnimated"]
+- ["PSo19UITableViewDelegate", "doneButton"]
+- ["PSo19UITableViewDelegate", "init"]
+- !private ["PSo19UITableViewDelegate", "navigationController"]
+- ["PSo19UITableViewDelegate", "viewDidLoad"]
+- ["PSo19UITableViewDelegate", ""]
+- ["PSo18UITraitEnvironment", "Colors"]
+- !private ["PSo18UITraitEnvironment", "NSForegroundColorAttributeName"]
+- !private ["PSo18UITraitEnvironment", "UIColor"]
+- !private ["PSo18UITraitEnvironment", "UINavigationBar"]
+- !private ["PSo18UITraitEnvironment", "appearance"]
+- !private ["PSo18UITraitEnvironment", "barTintColor"]
+- ["PSo18UITraitEnvironment", "color"]
+- !private ["PSo18UITraitEnvironment", "dismissViewControllerAnimated"]
+- ["PSo18UITraitEnvironment", "doneButton"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "navigationBar"]
+- !private ["PSo18UITraitEnvironment", "navigationController"]
+- !private ["PSo18UITraitEnvironment", "tintColor"]
+- !private ["PSo18UITraitEnvironment", "titleTextAttributes"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "appearance"]
+- !private ["CSo6UIView", "barTintColor"]
+- !private ["CSo6UIView", "tintColor"]
+- !private ["CSo6UIView", "titleTextAttributes"]
+- ["CSo16UIViewController", "AnyObject"]
+- ["CSo16UIViewController", "Colors"]
+- !private ["CSo16UIViewController", "NSForegroundColorAttributeName"]
+- !private ["CSo16UIViewController", "UIColor"]
+- !private ["CSo16UIViewController", "UINavigationBar"]
+- ["CSo16UIViewController", "color"]
+- !private ["CSo16UIViewController", "dismissViewControllerAnimated"]
+- ["CSo16UIViewController", "doneButton"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "navigationBar"]
+- !private ["CSo16UIViewController", "navigationController"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- !private ["PSs24_ColorLiteralConvertible", "whiteColor"]
+- !private ["PSs21_ObjectiveCBridgeable", "Key"]
+- !private ["PSs21_ObjectiveCBridgeable", "Value"]
+- !private ["PSs12_Reflectable", "Key"]
+- !private ["PSs12_Reflectable", "Value"]
+- !private ["PSs12_Reflectable", "appearance"]
+- !private ["PSs12_Reflectable", "barTintColor"]
+- !private ["PSs12_Reflectable", "tintColor"]
+- !private ["PSs12_Reflectable", "titleTextAttributes"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- !private "PSs14CollectionType"
+- "C6Recap26Colors"
+- !private "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "VSs10Dictionary"
+- !private "PSs28DictionaryLiteralConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- !private "PSs9Indexable"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "Sq"
+- !private "PSs12SequenceType"
+- "C6Recap222SettingsViewController"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- !private "PSo16UIBarPositioning"
+- !private "CSo7UIColor"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "CSo15UINavigationBar"
+- !private "CSo22UINavigationController"
+- "CSo11UIResponder"
+- "PSo20UIScrollViewDelegate"
+- "PSo16UIStateRestoring"
+- "CSo21UITableViewController"
+- "PSo21UITableViewDataSource"
+- "PSo19UITableViewDelegate"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "PSs24_ColorLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/DarwinShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/module.map"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFURL.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFTask.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BoltsVersion.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/Bolts.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Modules/module.modulemap"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKButton.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKUtility.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKSettings.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKProfile.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKConstants.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKMacros.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKCopying.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Modules/module.modulemap"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Modules/module.modulemap"
+interface-hash: "0c91cc3be36d5c2107fafa277e2b5c40"

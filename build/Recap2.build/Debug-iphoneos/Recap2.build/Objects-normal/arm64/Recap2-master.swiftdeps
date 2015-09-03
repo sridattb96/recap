@@ -1,0 +1,15 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.52.2 clang-700.0.65)"
+options: "518958c792f16ad01f36e6e4218dff5e"
+build_time: [494573122, 525513000]
+inputs: 
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/AddCourseVideoController.swift": [494534956, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/WelcomeViewController.swift": [494572874, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/SettingsViewController.swift": [494409422, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/Course.swift": [494481292, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/ViewController.swift": [494283839, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/UserViewController.swift": [494408909, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/AppDelegate.swift": [494563983, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/CourseDetailViewController.swift": [494484887, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/SchoolViewController.swift": [494483221, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/CourseTableViewCell.swift": [494304177, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Recap2/Colors.swift": [494408704, 0]

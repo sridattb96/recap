@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.52.2 clang-700.0.65)"
+options: "27ad9af49d25bafbaa644c22e33ce929"
+build_time: [494565772, 600185000]
+inputs: 
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/SwiftRequest/SwiftRequest/SwiftRequest.swift": [494534055, 0]

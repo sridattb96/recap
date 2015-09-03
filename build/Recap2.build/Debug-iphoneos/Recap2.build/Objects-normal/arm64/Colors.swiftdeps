@@ -1,0 +1,195 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Colors"
+provides-nominal:
+- "C6Recap26Colors"
+provides-member:
+- ["C6Recap26Colors", ""]
+provides-dynamic-lookup:
+- "UIColorFromRGB"
+- "mainColor"
+- "getMainColor"
+depends-top-level:
+- "UIColor"
+- !private "&"
+- !private "CGFloat"
+- !private "/"
+- "Colors"
+- "NSObject"
+- !private ">>"
+- "UInt"
+depends-member:
+- !private ["PSs16AbsoluteValuable", "init"]
+- !private ["PSs9AnyObject", "CGFloat"]
+- !private ["PSs9AnyObject", "UIColor"]
+- ["PSs9AnyObject", "UIColorFromRGB"]
+- ["PSs9AnyObject", "getMainColor"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "mainColor"]
+- ["PSs9AnyObject", ""]
+- !private ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["V12CoreGraphics7CGFloat", "init"]
+- !private ["PSs11CVarArgType", "CGFloat"]
+- !private ["PSs11CVarArgType", "UIColor"]
+- ["PSs11CVarArgType", "UIColorFromRGB"]
+- ["PSs11CVarArgType", "getMainColor"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "mainColor"]
+- ["PSs11CVarArgType", ""]
+- !private ["C6Recap26Colors", "CGFloat"]
+- ["C6Recap26Colors", "UIColor"]
+- ["C6Recap26Colors", "UIColorFromRGB"]
+- ["C6Recap26Colors", "UInt"]
+- ["C6Recap26Colors", "deinit"]
+- ["C6Recap26Colors", "getMainColor"]
+- ["C6Recap26Colors", "init"]
+- ["C6Recap26Colors", "mainColor"]
+- !private ["PSs10Comparable", "init"]
+- !private ["PSs23CustomStringConvertible", "CGFloat"]
+- !private ["PSs23CustomStringConvertible", "UIColor"]
+- ["PSs23CustomStringConvertible", "UIColorFromRGB"]
+- ["PSs23CustomStringConvertible", "getMainColor"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "mainColor"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "CGFloat"]
+- !private ["PSs9Equatable", "UIColor"]
+- ["PSs9Equatable", "UIColorFromRGB"]
+- ["PSs9Equatable", "getMainColor"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "mainColor"]
+- ["PSs9Equatable", ""]
+- !private ["PSs23FloatLiteralConvertible", "init"]
+- !private ["PSs17FloatingPointType", "init"]
+- !private ["PSs8Hashable", "CGFloat"]
+- !private ["PSs8Hashable", "UIColor"]
+- ["PSs8Hashable", "UIColorFromRGB"]
+- ["PSs8Hashable", "getMainColor"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "mainColor"]
+- ["PSs8Hashable", ""]
+- !private ["PSs25IntegerLiteralConvertible", "init"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["CSo8NSObject", "CGFloat"]
+- ["CSo8NSObject", "UIColor"]
+- ["CSo8NSObject", "UIColorFromRGB"]
+- ["CSo8NSObject", "UInt"]
+- ["CSo8NSObject", "getMainColor"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "mainColor"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "CGFloat"]
+- !private ["PSo16NSObjectProtocol", "UIColor"]
+- ["PSo16NSObjectProtocol", "UIColorFromRGB"]
+- ["PSo16NSObjectProtocol", "getMainColor"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "mainColor"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["PSs16SignedNumberType", "init"]
+- !private ["PSs10Strideable", "init"]
+- !private ["CSo7UIColor", "init"]
+- !private ["PSs19_CVarArgAlignedType", "init"]
+- !private ["PSs22_CVarArgPassedAsDouble", "init"]
+- !private ["PSs24_ColorLiteralConvertible", "init"]
+- !private ["PSs21_ObjectiveCBridgeable", "init"]
+- !private ["PSs12_Reflectable", "init"]
+- !private ["PSs11_Strideable", "init"]
+depends-nominal:
+- !private "PSs16AbsoluteValuable"
+- "PSs9AnyObject"
+- !private "V12CoreGraphics7CGFloat"
+- "PSs11CVarArgType"
+- "C6Recap26Colors"
+- !private "PSs10Comparable"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- !private "PSs23FloatLiteralConvertible"
+- !private "PSs17FloatingPointType"
+- "PSs8Hashable"
+- !private "PSs25IntegerLiteralConvertible"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "PSs16SignedNumberType"
+- !private "PSs10Strideable"
+- !private "CSo7UIColor"
+- !private "PSs19_CVarArgAlignedType"
+- !private "PSs22_CVarArgPassedAsDouble"
+- !private "PSs24_ColorLiteralConvertible"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "PSs12_Reflectable"
+- !private "PSs11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/DarwinShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/module.map"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFURL.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFTask.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BoltsVersion.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/Bolts.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Modules/module.modulemap"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKButton.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKUtility.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKSettings.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKProfile.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKConstants.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKMacros.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKCopying.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Modules/module.modulemap"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Modules/module.modulemap"
+interface-hash: "1e680137966a773a12c6d27fcf220c50"

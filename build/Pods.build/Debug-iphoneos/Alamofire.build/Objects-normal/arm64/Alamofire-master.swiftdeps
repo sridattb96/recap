@@ -1,0 +1,17 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.52.2 clang-700.0.65)"
+options: "f260af57c89a025642230722cf576916"
+build_time: [494563503, 790564000]
+inputs: 
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/Upload.swift": [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/Validation.swift": [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/MultipartFormData.swift": [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/Stream.swift": [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/Request.swift": !dirty [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/ParameterEncoding.swift": !dirty [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/Alamofire.swift": [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/Error.swift": [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/Download.swift": [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/ServerTrustPolicy.swift": [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/Manager.swift": !dirty [494563470, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/ResponseSerialization.swift": [494563329, 0]
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/Alamofire/Source/Result.swift": [494563329, 0]

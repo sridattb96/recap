@@ -1,0 +1,506 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "WelcomeViewController"
+provides-nominal:
+- "C6Recap221WelcomeViewController"
+provides-member:
+- ["C6Recap221WelcomeViewController", ""]
+provides-dynamic-lookup:
+- "viewDidLoad"
+- "submitButton"
+- "selectedCollege"
+- "welcomeMsg"
+- "serverApiRoot"
+- "viewDidAppear"
+- "didReceiveMemoryWarning"
+depends-top-level:
+- !private "=="
+- "WelcomeViewController"
+- "UILabel"
+- "UIViewController"
+- "StringLiteralType"
+- !private "Dictionary"
+- !private "print"
+- !private "String"
+- "AnyObject"
+- "Bool"
+- !private "NSUserDefaults"
+- "SwiftRequest"
+- !private "UnicodeScalarType"
+- !private "+"
+- !private "BooleanLiteralType"
+depends-member:
+- !private ["PSs9AnyObject", "NSUserDefaults"]
+- ["PSs9AnyObject", "SwiftRequest"]
+- ["PSs9AnyObject", "didReceiveMemoryWarning"]
+- ["PSs9AnyObject", "init"]
+- !private ["PSs9AnyObject", "objectForKey"]
+- !private ["PSs9AnyObject", "post"]
+- !private ["PSs9AnyObject", "print"]
+- ["PSs9AnyObject", "selectedCollege"]
+- ["PSs9AnyObject", "serverApiRoot"]
+- !private ["PSs9AnyObject", "standardUserDefaults"]
+- ["PSs9AnyObject", "submitButton"]
+- ["PSs9AnyObject", "swiftRequest"]
+- !private ["PSs9AnyObject", "text"]
+- ["PSs9AnyObject", "viewDidAppear"]
+- ["PSs9AnyObject", "viewDidLoad"]
+- ["PSs9AnyObject", "welcomeMsg"]
+- ["PSs9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Sb", "deinit"]
+- !private ["PSs25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs11BooleanType", "_getBuiltinLogicValue"]
+- !private ["PSs11CVarArgType", "NSUserDefaults"]
+- ["PSs11CVarArgType", "SwiftRequest"]
+- ["PSs11CVarArgType", "didReceiveMemoryWarning"]
+- ["PSs11CVarArgType", "init"]
+- !private ["PSs11CVarArgType", "objectForKey"]
+- !private ["PSs11CVarArgType", "print"]
+- ["PSs11CVarArgType", "selectedCollege"]
+- ["PSs11CVarArgType", "serverApiRoot"]
+- !private ["PSs11CVarArgType", "standardUserDefaults"]
+- ["PSs11CVarArgType", "submitButton"]
+- ["PSs11CVarArgType", "swiftRequest"]
+- !private ["PSs11CVarArgType", "text"]
+- ["PSs11CVarArgType", "viewDidAppear"]
+- ["PSs11CVarArgType", "viewDidLoad"]
+- ["PSs11CVarArgType", "welcomeMsg"]
+- ["PSs11CVarArgType", ""]
+- !private ["VSs9Character", "deinit"]
+- !private ["PSs14CollectionType", "Key"]
+- !private ["PSs14CollectionType", "Value"]
+- !private ["PSs10Comparable", "init"]
+- !private ["PSs28CustomDebugStringConvertible", "Key"]
+- ["PSs28CustomDebugStringConvertible", "Some"]
+- !private ["PSs28CustomDebugStringConvertible", "Value"]
+- !private ["PSs28CustomDebugStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "Key"]
+- !private ["PSs23CustomStringConvertible", "NSUserDefaults"]
+- ["PSs23CustomStringConvertible", "SwiftRequest"]
+- !private ["PSs23CustomStringConvertible", "Value"]
+- !private ["PSs23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["PSs23CustomStringConvertible", "didReceiveMemoryWarning"]
+- ["PSs23CustomStringConvertible", "init"]
+- !private ["PSs23CustomStringConvertible", "objectForKey"]
+- !private ["PSs23CustomStringConvertible", "print"]
+- ["PSs23CustomStringConvertible", "selectedCollege"]
+- ["PSs23CustomStringConvertible", "serverApiRoot"]
+- !private ["PSs23CustomStringConvertible", "standardUserDefaults"]
+- ["PSs23CustomStringConvertible", "submitButton"]
+- ["PSs23CustomStringConvertible", "swiftRequest"]
+- !private ["PSs23CustomStringConvertible", "text"]
+- ["PSs23CustomStringConvertible", "viewDidAppear"]
+- ["PSs23CustomStringConvertible", "viewDidLoad"]
+- ["PSs23CustomStringConvertible", "welcomeMsg"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["VSs10Dictionary", "Key"]
+- !private ["VSs10Dictionary", "Value"]
+- !private ["PSs28DictionaryLiteralConvertible", "Key"]
+- !private ["PSs28DictionaryLiteralConvertible", "Value"]
+- !private ["Sd", "deinit"]
+- !private ["PSs9Equatable", "NSUserDefaults"]
+- ["PSs9Equatable", "SwiftRequest"]
+- !private ["PSs9Equatable", "_getBuiltinLogicValue"]
+- ["PSs9Equatable", "didReceiveMemoryWarning"]
+- ["PSs9Equatable", "init"]
+- !private ["PSs9Equatable", "objectForKey"]
+- !private ["PSs9Equatable", "print"]
+- ["PSs9Equatable", "selectedCollege"]
+- ["PSs9Equatable", "serverApiRoot"]
+- !private ["PSs9Equatable", "standardUserDefaults"]
+- ["PSs9Equatable", "submitButton"]
+- ["PSs9Equatable", "swiftRequest"]
+- !private ["PSs9Equatable", "text"]
+- ["PSs9Equatable", "viewDidAppear"]
+- ["PSs9Equatable", "viewDidLoad"]
+- ["PSs9Equatable", "welcomeMsg"]
+- ["PSs9Equatable", ""]
+- !private ["PSs41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Sf", "deinit"]
+- !private ["PSs8Hashable", "NSUserDefaults"]
+- ["PSs8Hashable", "SwiftRequest"]
+- !private ["PSs8Hashable", "_getBuiltinLogicValue"]
+- ["PSs8Hashable", "didReceiveMemoryWarning"]
+- ["PSs8Hashable", "init"]
+- !private ["PSs8Hashable", "objectForKey"]
+- !private ["PSs8Hashable", "print"]
+- ["PSs8Hashable", "selectedCollege"]
+- ["PSs8Hashable", "serverApiRoot"]
+- !private ["PSs8Hashable", "standardUserDefaults"]
+- ["PSs8Hashable", "submitButton"]
+- ["PSs8Hashable", "swiftRequest"]
+- !private ["PSs8Hashable", "text"]
+- ["PSs8Hashable", "viewDidAppear"]
+- ["PSs8Hashable", "viewDidLoad"]
+- ["PSs8Hashable", "welcomeMsg"]
+- ["PSs8Hashable", ""]
+- !private ["PSs9Indexable", "Key"]
+- !private ["PSs9Indexable", "Value"]
+- !private ["Si", "deinit"]
+- !private ["VSs5Int16", "deinit"]
+- !private ["VSs5Int32", "deinit"]
+- !private ["VSs5Int64", "deinit"]
+- !private ["VSs4Int8", "deinit"]
+- !private ["PSs14MirrorPathType", "init"]
+- !private ["PSo8NSCoding", "NSUserDefaults"]
+- ["PSo8NSCoding", "SwiftRequest"]
+- ["PSo8NSCoding", "didReceiveMemoryWarning"]
+- ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "print"]
+- ["PSo8NSCoding", "selectedCollege"]
+- ["PSo8NSCoding", "serverApiRoot"]
+- ["PSo8NSCoding", "submitButton"]
+- ["PSo8NSCoding", "swiftRequest"]
+- !private ["PSo8NSCoding", "text"]
+- ["PSo8NSCoding", "viewDidAppear"]
+- ["PSo8NSCoding", "viewDidLoad"]
+- ["PSo8NSCoding", "welcomeMsg"]
+- ["PSo8NSCoding", ""]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "NSUserDefaults"]
+- ["PSo26NSExtensionRequestHandling", "SwiftRequest"]
+- ["PSo26NSExtensionRequestHandling", "didReceiveMemoryWarning"]
+- ["PSo26NSExtensionRequestHandling", "init"]
+- !private ["PSo26NSExtensionRequestHandling", "print"]
+- ["PSo26NSExtensionRequestHandling", "selectedCollege"]
+- ["PSo26NSExtensionRequestHandling", "serverApiRoot"]
+- ["PSo26NSExtensionRequestHandling", "submitButton"]
+- ["PSo26NSExtensionRequestHandling", "swiftRequest"]
+- ["PSo26NSExtensionRequestHandling", "viewDidAppear"]
+- ["PSo26NSExtensionRequestHandling", "viewDidLoad"]
+- ["PSo26NSExtensionRequestHandling", "welcomeMsg"]
+- ["PSo26NSExtensionRequestHandling", ""]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "AnyObject"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "NSUserDefaults"]
+- !private ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "SwiftRequest"]
+- ["CSo8NSObject", "UILabel"]
+- ["CSo8NSObject", "didReceiveMemoryWarning"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "objectForKey"]
+- !private ["CSo8NSObject", "print"]
+- ["CSo8NSObject", "selectedCollege"]
+- ["CSo8NSObject", "serverApiRoot"]
+- !private ["CSo8NSObject", "standardUserDefaults"]
+- ["CSo8NSObject", "submitButton"]
+- ["CSo8NSObject", "swiftRequest"]
+- !private ["CSo8NSObject", "text"]
+- ["CSo8NSObject", "viewDidAppear"]
+- ["CSo8NSObject", "viewDidLoad"]
+- ["CSo8NSObject", "welcomeMsg"]
+- !private ["PSo16NSObjectProtocol", "NSUserDefaults"]
+- ["PSo16NSObjectProtocol", "SwiftRequest"]
+- ["PSo16NSObjectProtocol", "didReceiveMemoryWarning"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "objectForKey"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- ["PSo16NSObjectProtocol", "selectedCollege"]
+- ["PSo16NSObjectProtocol", "serverApiRoot"]
+- !private ["PSo16NSObjectProtocol", "standardUserDefaults"]
+- ["PSo16NSObjectProtocol", "submitButton"]
+- ["PSo16NSObjectProtocol", "swiftRequest"]
+- !private ["PSo16NSObjectProtocol", "text"]
+- ["PSo16NSObjectProtocol", "viewDidAppear"]
+- ["PSo16NSObjectProtocol", "viewDidLoad"]
+- ["PSo16NSObjectProtocol", "welcomeMsg"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "init"]
+- !private ["CSo14NSUserDefaults", "objectForKey"]
+- !private ["CSo14NSUserDefaults", "standardUserDefaults"]
+- ["PSs21NilLiteralConvertible", "Some"]
+- ["Sq", "Some"]
+- !private ["Sq", "deinit"]
+- !private ["PSs16OutputStreamType", "init"]
+- !private ["PSs12SequenceType", "Key"]
+- !private ["PSs12SequenceType", "Value"]
+- !private ["PSs10Streamable", "init"]
+- !private ["SS", "init"]
+- !private ["PSs30StringInterpolationConvertible", "init"]
+- !private ["PSs24StringLiteralConvertible", "init"]
+- ["C12SwiftRequest12SwiftRequest", "init"]
+- !private ["C12SwiftRequest12SwiftRequest", "post"]
+- !private ["PSo29UIAccessibilityIdentification", "text"]
+- !private ["PSo12UIAppearance", "text"]
+- !private ["PSo21UIAppearanceContainer", "NSUserDefaults"]
+- ["PSo21UIAppearanceContainer", "SwiftRequest"]
+- ["PSo21UIAppearanceContainer", "didReceiveMemoryWarning"]
+- ["PSo21UIAppearanceContainer", "init"]
+- !private ["PSo21UIAppearanceContainer", "print"]
+- ["PSo21UIAppearanceContainer", "selectedCollege"]
+- ["PSo21UIAppearanceContainer", "serverApiRoot"]
+- ["PSo21UIAppearanceContainer", "submitButton"]
+- ["PSo21UIAppearanceContainer", "swiftRequest"]
+- !private ["PSo21UIAppearanceContainer", "text"]
+- ["PSo21UIAppearanceContainer", "viewDidAppear"]
+- ["PSo21UIAppearanceContainer", "viewDidLoad"]
+- ["PSo21UIAppearanceContainer", "welcomeMsg"]
+- ["PSo21UIAppearanceContainer", ""]
+- !private ["PSo18UIContentContainer", "NSUserDefaults"]
+- ["PSo18UIContentContainer", "SwiftRequest"]
+- ["PSo18UIContentContainer", "didReceiveMemoryWarning"]
+- ["PSo18UIContentContainer", "init"]
+- !private ["PSo18UIContentContainer", "print"]
+- ["PSo18UIContentContainer", "selectedCollege"]
+- ["PSo18UIContentContainer", "serverApiRoot"]
+- ["PSo18UIContentContainer", "submitButton"]
+- ["PSo18UIContentContainer", "swiftRequest"]
+- ["PSo18UIContentContainer", "viewDidAppear"]
+- ["PSo18UIContentContainer", "viewDidLoad"]
+- ["PSo18UIContentContainer", "welcomeMsg"]
+- ["PSo18UIContentContainer", ""]
+- !private ["PSo17UICoordinateSpace", "text"]
+- !private ["PSo13UIDynamicItem", "text"]
+- !private ["CSo7UILabel", "text"]
+- ["CSo11UIResponder", "AnyObject"]
+- ["CSo11UIResponder", "Bool"]
+- !private ["CSo11UIResponder", "NSUserDefaults"]
+- !private ["CSo11UIResponder", "String"]
+- ["CSo11UIResponder", "SwiftRequest"]
+- ["CSo11UIResponder", "UILabel"]
+- ["CSo11UIResponder", "didReceiveMemoryWarning"]
+- ["CSo11UIResponder", "init"]
+- !private ["CSo11UIResponder", "print"]
+- ["CSo11UIResponder", "selectedCollege"]
+- ["CSo11UIResponder", "serverApiRoot"]
+- ["CSo11UIResponder", "submitButton"]
+- ["CSo11UIResponder", "swiftRequest"]
+- !private ["CSo11UIResponder", "text"]
+- ["CSo11UIResponder", "viewDidAppear"]
+- ["CSo11UIResponder", "viewDidLoad"]
+- ["CSo11UIResponder", "welcomeMsg"]
+- !private ["PSo16UIStateRestoring", "NSUserDefaults"]
+- ["PSo16UIStateRestoring", "SwiftRequest"]
+- ["PSo16UIStateRestoring", "didReceiveMemoryWarning"]
+- ["PSo16UIStateRestoring", "init"]
+- !private ["PSo16UIStateRestoring", "print"]
+- ["PSo16UIStateRestoring", "selectedCollege"]
+- ["PSo16UIStateRestoring", "serverApiRoot"]
+- ["PSo16UIStateRestoring", "submitButton"]
+- ["PSo16UIStateRestoring", "swiftRequest"]
+- ["PSo16UIStateRestoring", "viewDidAppear"]
+- ["PSo16UIStateRestoring", "viewDidLoad"]
+- ["PSo16UIStateRestoring", "welcomeMsg"]
+- ["PSo16UIStateRestoring", ""]
+- !private ["PSo18UITraitEnvironment", "NSUserDefaults"]
+- ["PSo18UITraitEnvironment", "SwiftRequest"]
+- ["PSo18UITraitEnvironment", "didReceiveMemoryWarning"]
+- ["PSo18UITraitEnvironment", "init"]
+- !private ["PSo18UITraitEnvironment", "print"]
+- ["PSo18UITraitEnvironment", "selectedCollege"]
+- ["PSo18UITraitEnvironment", "serverApiRoot"]
+- ["PSo18UITraitEnvironment", "submitButton"]
+- ["PSo18UITraitEnvironment", "swiftRequest"]
+- !private ["PSo18UITraitEnvironment", "text"]
+- ["PSo18UITraitEnvironment", "viewDidAppear"]
+- ["PSo18UITraitEnvironment", "viewDidLoad"]
+- ["PSo18UITraitEnvironment", "welcomeMsg"]
+- ["PSo18UITraitEnvironment", ""]
+- !private ["CSo6UIView", "text"]
+- ["CSo16UIViewController", "AnyObject"]
+- ["CSo16UIViewController", "Bool"]
+- !private ["CSo16UIViewController", "NSUserDefaults"]
+- !private ["CSo16UIViewController", "String"]
+- ["CSo16UIViewController", "SwiftRequest"]
+- ["CSo16UIViewController", "UILabel"]
+- ["CSo16UIViewController", "didReceiveMemoryWarning"]
+- ["CSo16UIViewController", "init"]
+- !private ["CSo16UIViewController", "print"]
+- ["CSo16UIViewController", "selectedCollege"]
+- ["CSo16UIViewController", "serverApiRoot"]
+- ["CSo16UIViewController", "submitButton"]
+- ["CSo16UIViewController", "swiftRequest"]
+- ["CSo16UIViewController", "viewDidAppear"]
+- ["CSo16UIViewController", "viewDidLoad"]
+- ["CSo16UIViewController", "welcomeMsg"]
+- ["CSo16UIViewController", ""]
+- !private ["Su", "deinit"]
+- !private ["VSs6UInt16", "deinit"]
+- !private ["VSs6UInt32", "deinit"]
+- !private ["VSs6UInt64", "deinit"]
+- !private ["VSs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["PSs31UnicodeScalarLiteralConvertible", "init"]
+- ["C6Recap221WelcomeViewController", "AnyObject"]
+- ["C6Recap221WelcomeViewController", "Bool"]
+- !private ["C6Recap221WelcomeViewController", "NSUserDefaults"]
+- !private ["C6Recap221WelcomeViewController", "String"]
+- ["C6Recap221WelcomeViewController", "SwiftRequest"]
+- ["C6Recap221WelcomeViewController", "UILabel"]
+- ["C6Recap221WelcomeViewController", "deinit"]
+- ["C6Recap221WelcomeViewController", "didReceiveMemoryWarning"]
+- ["C6Recap221WelcomeViewController", "init"]
+- !private ["C6Recap221WelcomeViewController", "print"]
+- ["C6Recap221WelcomeViewController", "selectedCollege"]
+- ["C6Recap221WelcomeViewController", "serverApiRoot"]
+- ["C6Recap221WelcomeViewController", "submitButton"]
+- ["C6Recap221WelcomeViewController", "swiftRequest"]
+- ["C6Recap221WelcomeViewController", "viewDidAppear"]
+- ["C6Recap221WelcomeViewController", "viewDidLoad"]
+- ["C6Recap221WelcomeViewController", "welcomeMsg"]
+- !private ["PSs33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["PSs32_BuiltinStringLiteralConvertible", "init"]
+- !private ["PSs37_BuiltinUTF16StringLiteralConvertible", "init"]
+- !private ["PSs39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- !private ["PSs16_CocoaStringType", "init"]
+- !private ["PSs21_ObjectiveCBridgeable", "Key"]
+- !private ["PSs21_ObjectiveCBridgeable", "Value"]
+- !private ["PSs21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["PSs21_ObjectiveCBridgeable", "init"]
+- !private ["VSs26_OptionalNilComparisonType", "deinit"]
+- !private ["PSs12_Reflectable", "Key"]
+- ["PSs12_Reflectable", "Some"]
+- !private ["PSs12_Reflectable", "Value"]
+- !private ["PSs12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["PSs12_Reflectable", "init"]
+- !private ["PSs12_Reflectable", "text"]
+depends-nominal:
+- "PSs9AnyObject"
+- !private "Sb"
+- !private "PSs25BooleanLiteralConvertible"
+- !private "PSs11BooleanType"
+- "PSs11CVarArgType"
+- !private "VSs9Character"
+- !private "PSs14CollectionType"
+- !private "PSs10Comparable"
+- "PSs28CustomDebugStringConvertible"
+- "PSs23CustomStringConvertible"
+- !private "VSs10Dictionary"
+- !private "PSs28DictionaryLiteralConvertible"
+- !private "Sd"
+- "PSs9Equatable"
+- !private "PSs41ExtendedGraphemeClusterLiteralConvertible"
+- !private "Sf"
+- "PSs8Hashable"
+- !private "PSs9Indexable"
+- !private "Si"
+- !private "VSs5Int16"
+- !private "VSs5Int32"
+- !private "VSs5Int64"
+- !private "VSs4Int8"
+- !private "PSs14MirrorPathType"
+- "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- "PSo26NSExtensionRequestHandling"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "CSo14NSUserDefaults"
+- "PSs21NilLiteralConvertible"
+- "Sq"
+- !private "PSs16OutputStreamType"
+- !private "PSs12SequenceType"
+- !private "PSs10Streamable"
+- !private "SS"
+- !private "PSs30StringInterpolationConvertible"
+- !private "PSs24StringLiteralConvertible"
+- "C12SwiftRequest12SwiftRequest"
+- !private "PSo29UIAccessibilityIdentification"
+- !private "PSo12UIAppearance"
+- "PSo21UIAppearanceContainer"
+- "PSo18UIContentContainer"
+- !private "PSo17UICoordinateSpace"
+- !private "PSo13UIDynamicItem"
+- !private "CSo7UILabel"
+- "CSo11UIResponder"
+- "PSo16UIStateRestoring"
+- "PSo18UITraitEnvironment"
+- !private "CSo6UIView"
+- "CSo16UIViewController"
+- !private "Su"
+- !private "VSs6UInt16"
+- !private "VSs6UInt32"
+- !private "VSs6UInt64"
+- !private "VSs5UInt8"
+- !private "Sc"
+- !private "PSs31UnicodeScalarLiteralConvertible"
+- "C6Recap221WelcomeViewController"
+- !private "PSs33_BuiltinBooleanLiteralConvertible"
+- !private "PSs49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "PSs32_BuiltinStringLiteralConvertible"
+- !private "PSs37_BuiltinUTF16StringLiteralConvertible"
+- !private "PSs39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "PSs16_CocoaStringType"
+- !private "PSs21_ObjectiveCBridgeable"
+- !private "VSs26_OptionalNilComparisonType"
+- "PSs12_Reflectable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/UnicodeShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RuntimeStubs.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RuntimeShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/RefCount.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/HeapObject.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/GlobalObjects.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/FoundationShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/SwiftStddef.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/DarwinShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/SwiftStdint.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/CoreFoundationShims.h"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/shims/module.map"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode-beta.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFWebViewAppLinkResolver.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFURL.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFMeasurementEvent.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkTarget.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkReturnToRefererView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkReturnToRefererController.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkResolving.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLink.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFAppLinkNavigation.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFTaskCompletionSource.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFTask.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFExecutor.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationTokenSource.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationTokenRegistration.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BFCancellationToken.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/BoltsVersion.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Headers/Bolts.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/Bolts.framework/Modules/module.modulemap"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestDataAttachment.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphErrorRecoveryProcessor.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppLinkResolver.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKButton.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKUtility.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKTestUsersManager.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKSettings.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKProfilePictureView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKProfile.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKMutableCopying.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequest.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKConstants.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKApplicationDelegate.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppLinkUtility.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAppEvents.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKMacros.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKGraphRequestConnection.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKCopying.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKAccessToken.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Headers/FBSDKCoreKit.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKCoreKit.framework/Modules/module.modulemap"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginTooltipView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginManagerLoginResult.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginConstants.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKTooltipView.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginManager.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginButton.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Headers/FBSDKLoginKit.h"
+- "/Users/sridattbhamidipati/Downloads/FacebookSDKs-iOS-20150813/FBSDKLoginKit.framework/Modules/module.modulemap"
+- "/Users/sridattbhamidipati/Desktop/Swift/Recap2/build/Debug-iphonesimulator/SwiftRequest.framework/Modules/SwiftRequest.swiftmodule/x86_64.swiftmodule"
+- "/Users/sridattbhamidipati/Desktop/Swift/Recap2/build/Debug-iphonesimulator/SwiftRequest.framework/Headers/SwiftRequest-Swift.h"
+- "/Users/sridattbhamidipati/Desktop/Swift/Recap2/build/Debug-iphonesimulator/SwiftRequest.framework/Headers/SwiftRequest-umbrella.h"
+- "/Users/sridattbhamidipati/Desktop/Swift/Recap2/build/Debug-iphonesimulator/SwiftRequest.framework/Modules/module.modulemap"
+interface-hash: "11d9320d26d80b3ffed5872fc2e9abcd"

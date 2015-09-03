@@ -1,0 +1,5 @@
+version: "Apple Swift version 2.0 (swiftlang-700.0.52.2 clang-700.0.65)"
+options: "1cfce84b42154d096e4d4524a55199e3"
+build_time: [494565696, 51242000]
+inputs: 
+	"/Users/sridattbhamidipati/Desktop/Swift/Recap2/Pods/SwiftyJSON/Source/SwiftyJSON.swift": !dirty [494565593, 0]

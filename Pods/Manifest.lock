@@ -1,0 +1,10 @@
+PODS:
+  - SwiftRequest (0.0.4)
+
+DEPENDENCIES:
+  - SwiftRequest (= 0.0.4)
+
+SPEC CHECKSUMS:
+  SwiftRequest: efeebcd1a1b8f948a9121e146d6ce7ba4bbdfcfe
+
+COCOAPODS: 0.38.2

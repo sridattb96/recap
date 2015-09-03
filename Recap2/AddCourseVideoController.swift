@@ -12,6 +12,9 @@ import SwiftRequest
 
 class AddCourseViewController: UIViewController {
     
+    var swiftRequest = SwiftRequest()
+    var serverApiRoot:String = "http://localhost:8000/api"
+    
     @IBOutlet weak var courseCRN: UITextField?
     @IBOutlet weak var courseName: UITextField?
     @IBOutlet weak var courseProfessor: UITextField?
@@ -41,14 +44,19 @@ class AddCourseViewController: UIViewController {
     
     @IBAction func doneButton(sender: AnyObject) {
         
-        //api to store course
-        
+        // saves course in nsuserdefaults
         let ud = NSUserDefaults.standardUserDefaults()
         
         let course = Course()
-        course.CRN = self.courseCRN?.text
-        course.Name = self.courseName?.text
-        course.Professor = self.courseProfessor?.text
+        if let crn = self.courseCRN?.text {
+            course.CRN = crn;
+        }
+        if let name = self.courseName?.text {
+            course.Name = name;
+        }
+        if let prof = self.courseProfessor?.text {
+            course.Professor = prof;
+        }
         
         var courses: NSMutableArray;
         
@@ -61,6 +69,21 @@ class AddCourseViewController: UIViewController {
         courses.addObject(course)
         let data = NSKeyedArchiver.archivedDataWithRootObject(courses)
         ud.setObject(data, forKey: "courses")
+        
+        // api to save course in db
+        let courseObj = [
+            "CRN": course.CRN!,
+            "name": course.Name!,
+            "professor": course.Professor!,
+            "fbId": NSUserDefaults.standardUserDefaults().objectForKey("fb_id") as! String,
+            "collegeId": "ucdavis"
+        ]
+        
+        swiftRequest.post(serverApiRoot + "/createCourse", data: courseObj, callback: {err, response, body in
+            if( err == nil ) {
+                print(body)
+            }
+        })
         
         dismissViewControllerAnimated(true, completion: nil)
     }
